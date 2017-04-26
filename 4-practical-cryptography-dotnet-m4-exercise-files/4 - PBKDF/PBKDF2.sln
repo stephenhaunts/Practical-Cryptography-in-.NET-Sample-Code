@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBKDF2", "PBKDF2.csproj", "{0578447F-E3FC-48E7-AA3D-DC0E6410E022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0578447F-E3FC-48E7-AA3D-DC0E6410E022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0578447F-E3FC-48E7-AA3D-DC0E6410E022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0578447F-E3FC-48E7-AA3D-DC0E6410E022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0578447F-E3FC-48E7-AA3D-DC0E6410E022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES", "AES\AES.csproj", "{29118C72-A1B4-4528-ABDE-8AB146946DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES", "DES\DES.csproj", "{219C7799-FBB7-4FDC-8D7F-A8FC26AC86EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDES", "TripleDES\TripleDES.csproj", "{B8378A04-E4C6-4BD9-B331-CE86A1002B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29118C72-A1B4-4528-ABDE-8AB146946DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29118C72-A1B4-4528-ABDE-8AB146946DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29118C72-A1B4-4528-ABDE-8AB146946DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29118C72-A1B4-4528-ABDE-8AB146946DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219C7799-FBB7-4FDC-8D7F-A8FC26AC86EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219C7799-FBB7-4FDC-8D7F-A8FC26AC86EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219C7799-FBB7-4FDC-8D7F-A8FC26AC86EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219C7799-FBB7-4FDC-8D7F-A8FC26AC86EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8378A04-E4C6-4BD9-B331-CE86A1002B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8378A04-E4C6-4BD9-B331-CE86A1002B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8378A04-E4C6-4BD9-B331-CE86A1002B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8378A04-E4C6-4BD9-B331-CE86A1002B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
